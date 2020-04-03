@@ -99,7 +99,7 @@ Course organization for course instructor and assistant.
 ------------
 
 ## At the end of each semester:
-- "Student coursework" organizations get recycled at the end of each semester AFTER grades are submitted.
+- "Student coursework" organizations get recycled **AFTER** grades are submitted.
   All student repositories are removed. Starter code and solutions repositories are moved to the Course Materials.
 
 - “Course Materials” organizations persist over time.
