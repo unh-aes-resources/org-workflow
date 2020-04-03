@@ -61,13 +61,11 @@ __Starter code repositories:__
 
 - Access rights: Students will have “read” access to this repository.
 
-
-
 __Team project repositories:__
 
 - Sub-teams can be created under the “Students” team. This team will have maintainer access to a project repository where each team member can be a contributor.
 
-
+-----------------
 ### **Course Materials:**
 Course organization for course instructor and assistant.
 
@@ -79,18 +77,19 @@ Course organization for course instructor and assistant.
 
 - Repositories in this organization:
 
-  __Course static website repository:__
+  - __Course static website repository:__
     This is a GitHub pages website for the course.
 
     Naming convention: compxxx.github.io, xxx represents course ID.
     Note: There is a static website which is being maintained at present: [unh-aes-resources](https://unh-aes-resources.github.io/)
 
-  __Starter code repositories.__
+  - __Starter code repositories.__
     This repository contains the starter code used for labs.
 
 
-  __Lab and homework solution repositories.__
+  - __Lab and homework solution repositories.__
     Assistants will upload the solutions to homework and labs in this repository. These repositories are considered to be useful in future semesters.
+---------------
 
 ### **Student Projects:** (To be Considered)
 - Organization for Student projects that relate to a course.
