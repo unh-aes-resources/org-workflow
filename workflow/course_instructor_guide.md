@@ -94,7 +94,6 @@ Course organization for course instructor and assistant.
 - Organization for Student projects that relate to a course.
 
 - Teams:
-
   1. Students: All the students in the course.
   2. Project teams: Sub-teams of Students.
 
