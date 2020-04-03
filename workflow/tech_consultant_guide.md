@@ -11,7 +11,7 @@ This is a course repository where all students have their work in the current se
   - Create the required repositories.
   - Help instructors and/or students with any Git related issues.
 
-#### Creating the organization:
+### Creating the organization:
 
   You can either create a new organization or rename the previously used organization for this course after recycling the content, which means Students Coursework Organizations need to get recycled at the end of the semester after grades are submitted. (Deleting all student repos, Starter code and solutions repos moved to Course Materials)
 
@@ -26,7 +26,7 @@ This is a course repository where all students have their work in the current se
 Email all the students for their usernames.
 Add the students to this organization as members.
 
-#### Creating teams in Organization:
+### Creating teams in Organization:
   - Create a team named “**Students**” with all the students in that course.
 
     To do this,
@@ -36,7 +36,7 @@ Add the students to this organization as members.
 	  Further, sub-teams can be created in this “Students” team. This is mostly done for team assignments/projects.
 
 
-#### Repositories:
+### Repositories:
 
   All the students in the “**Students**” team can create their own repositories in the organization.
 
@@ -79,7 +79,7 @@ Add the students to this organization as members.
   **Note:** As a tech consultant, you need to make sure that all the required content from the students’ coursework organization is uploaded to this organization. This material will be utilized in further semesters.
 
 
-#### Repositories:
+### Repositories:
 
 - **Course static website repository:**
   This is the GitHub pages website for the course with naming convention: compxxx.github.io, where xxx is Course ID.
