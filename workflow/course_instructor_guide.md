@@ -13,7 +13,7 @@ Student Projects organizations get updated at the end of each semester.
 Types of organizations in the University of New Hampshire enterprise:
 
 
-####### **Students coursework:**  Course organization for students in the course in a given semester.
+###### **Students coursework:**  Course organization for students in the course in a given semester.
 - Naming convention: <year>-<term>-comp-<course id>
   For example, 2020-spring-comp-721-821, 2020-spring-comp-525
 
