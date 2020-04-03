@@ -79,16 +79,18 @@ Add the students to this organization as members.
 
 
 ### Repositories:
-    - Course static website repository:
-      This is the GitHub pages website for the course with naming convention: compxxx.github.io, where xxx is Course ID.
 
-      Please go through [https://unh-aes-resources.github.io/docs/github-pages-setup/](https://unh-aes-resources.github.io/docs/github-pages-setup/) to set up GitHub pages.
+- Course static website repository:
+  This is the GitHub pages website for the course with naming convention: compxxx.github.io, where xxx is Course ID.
 
-    - Starter Code repositories
-    - Lab and homework solution repositories.
+  Please go through [https://unh-aes-resources.github.io/docs/github-pages-setup/](https://unh-aes-resources.github.io/docs/github-pages-setup/) to set up GitHub pages.
 
-    Starter code and solutions repositories are moved from students coursework org to this org at the end of each semester.
+- Starter Code repositories
+- Lab and homework solution repositories.
 
-    ``Please follow the steps from the previous section to create repositories. ``
+  Starter code and solutions repositories are moved from students coursework org to this org at the end of each semester.
+
+``Please follow the steps from the previous section to create repositories. ``
+
 ---------
 ## Student Projects organizations:
