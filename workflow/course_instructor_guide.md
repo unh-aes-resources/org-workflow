@@ -4,7 +4,7 @@
 Types of organizations in the University of New Hampshire enterprise:
 
 
-### **Students coursework:**  
+### **1. Students coursework:**  
 Course organization for students in the course in a given semester.
 - Naming convention:
   year-term-comp-course_id
@@ -55,7 +55,7 @@ Course organization for students in the course in a given semester.
     - Sub-teams can be created under the “Students” team. This team will have maintainer access to a project repository where each team member can be a contributor.
 
 -----------------
-### **Course Materials:**
+### **2. Course Materials:**
 Course organization for course instructor and assistant.
 
 - Naming convention: <course name>, for example, data-structures-fundamentals with blue logo.
@@ -80,7 +80,7 @@ Course organization for course instructor and assistant.
     Assistants will upload the solutions to homework and labs in this repository. These repositories are considered to be useful in future semesters.
 ---------------
 
-### **Student Projects:** (To be Considered)
+### **3. Student Projects:** (To be Considered)
 - Organization for Student projects that relate to a course.
 
 - Teams:
