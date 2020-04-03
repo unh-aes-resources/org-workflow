@@ -35,35 +35,35 @@ Course organization for students in the course in a given semester.
 
 - Repositories:
 
-This organization will have individual student repositories, starter code repositories, and the project team repositories.
+  This organization will have individual student repositories, starter code repositories, and the project team repositories.
 
-  __Individual Student repositories:__
+  - __Individual Student repositories:__
 
-  These repositories will contain all the individual submissions of the students like homework, labs, etc.
-  - Naming convention:
+    These repositories will contain all the individual submissions of the students like homework, labs, etc.
+    - Naming convention:
       firstname-lastname (tbd)
       For homework and labs,
         Individual: hw_name/number-firstname
         Group: hw_name/number-xxx-yyy, where xxx, yyy are the first names of students in this group.
 
-  - Access rights:
+    - Access rights:
 
-    All the students of the course will be added to the respective course organization as members by tech-consultant. Students should be given “write” access for their respective repositories.
+      All the students of the course will be added to the respective course organization as members by tech-consultant. Students should be given “write” access for their respective repositories.
 
-    *Note* : “Students” team with all the students in it allows them to create their own empty repositories in the GitHub organizations.
+      *Note* : “Students” team with all the students in it allows them to create their own empty repositories in the GitHub organizations.
 
 
-  - Students can create their own repositories and make them available for the instructor and assistant to read.  If repositories are created by tech-consultants, they should be given “write” access.
+    - Students can create their own repositories and make them available for the instructor and assistant to read.  If repositories are created by tech-consultants, they should be given “write” access.
 
-__Starter code repositories:__
+- __Starter code repositories:__
 
-- This repository contains the starter code and is maintained by the course instructor and assistant. Students will need to clone the starter code every week.  
+  - This repository contains the starter code and is maintained by the course instructor and assistant. Students will need to clone the starter code every week.  
 
-- Access rights: Students will have “read” access to this repository.
+  - Access rights: Students will have “read” access to this repository.
 
-__Team project repositories:__
+- __Team project repositories:__
 
-- Sub-teams can be created under the “Students” team. This team will have maintainer access to a project repository where each team member can be a contributor.
+  - Sub-teams can be created under the “Students” team. This team will have maintainer access to a project repository where each team member can be a contributor.
 
 -----------------
 ### **Course Materials:**
