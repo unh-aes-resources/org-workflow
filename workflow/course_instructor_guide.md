@@ -40,9 +40,7 @@ This organization will have individual student repositories, starter code reposi
   __Individual Student repositories:__
   These repositories will contain all the individual submissions of the students like homework, labs, etc.
   - Naming convention:
-      firstname-lastname (tbd)
-
-      
+      firstname-lastname (tbd)\n
       For homework and labs,
         Individual: hw_name/number-firstname
         Group: hw_name/number-xxx-yyy, where xxx, yyy are the first names of students in this group.
