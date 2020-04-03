@@ -2,19 +2,19 @@
 
 
 ## Brief Workflow:
-“Course Materials” organizations persist over time.
-Student Work organizations get recycled at the end of each semester AFTER grades are submitted.
-All student repositories are removed.
-Starter code and solutions repositories are moved to the Course Materials.
-The organization is renamed to reflect the following semester or the entire organization is removed and a new one is created.
-Student Projects organizations get updated at the end of each semester.
+- “Course Materials” organizations persist over time.
+  Student Work organizations get recycled at the end of each semester AFTER grades are submitted.
+  All student repositories are removed.
+- Starter code and solutions repositories are moved to the Course Materials.
+  The organization is renamed to reflect the following semester or the entire organization is removed and a new one is created.
+- Student Projects organizations get updated at the end of each semester.
 
 ## Detailed Workflow:
 Types of organizations in the University of New Hampshire enterprise:
 
 
 **Students coursework:**  Course organization for students in the course in a given semester.
-- Naming convention: <year>-<term>-comp-<course id>
+- Naming convention: year-term-comp-course id
   For example, 2020-spring-comp-721-821, 2020-spring-comp-525
 
 
@@ -26,7 +26,7 @@ Types of organizations in the University of New Hampshire enterprise:
 
 - Teams:
   - Students: All the students will be added to the “Students” team.
-  - For teamwork or group projects, sub-teams are created under the “Students” team with naming convention <team number>-<aaa>-<bbb>, where aaa and bbb are GitHub usernames of students in the sub-team.
+  - For teamwork or group projects, sub-teams are created under the “Students” team with naming convention team_number-aaa-bbb, where aaa and bbb are GitHub usernames of students in the sub-team.
 
 
 - Repositories:
@@ -35,11 +35,11 @@ Types of organizations in the University of New Hampshire enterprise:
 
 - Individual Student repositories:
 These repositories will contain all the individual submissions of the students like homework, labs, etc.
-- Naming convention: <firstname>-<lastname> (tbd)
+- Naming convention: firstname-lastname (tbd)
   If there are separate repositories created for each homework or labs then,
   For homework and labs,
-  Individual: <hw name/number>-<firstname>
-  Group: <hw name/number>-xxx-yyy, where xxx, yyy are the first names of students in this group.
+  Individual: hw_name/number-firstname
+  Group: hw_name/number-xxx-yyy, where xxx, yyy are the first names of students in this group.
 
 - Access rights:
   All the students of the course will be added to the respective course organization as members by tech-consultant. Students should be given “write” access for their respective repositories.
@@ -70,7 +70,7 @@ These repositories will contain all the individual submissions of the students l
     This is a GitHub pages website for the course.
 
     Naming convention: compxxx.github.io, xxx represents course ID.
-    Note: There is a static website which is being maintained at present: https://unh-aes-resources.github.io/
+    Note: There is a static website which is being maintained at present: [unh-aes-resources](https://unh-aes-resources.github.io/)
 
   - Starter code repositories.
     This repository contains the starter code used for labs.
