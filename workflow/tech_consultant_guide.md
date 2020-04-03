@@ -35,33 +35,32 @@ This is a course repository where all students have their work in the current se
 	  Further, sub-teams can be created in this “Students” team. This is mostly done for team assignments/projects.
 
 
-  - Repositories:
+- **Repositories:**
 
-    All the students in the “Students” team can create their own repositories in the organization.
+  All the students in the “Students” team can create their own repositories in the organization.
 
-    Each student will be a member of multiple repositories in this organization: Few as a contributor and few as a reader.
+  Each student will be a member of multiple repositories in this organization: Few as a contributor and few as a reader.
 
-    If a repository is created by tech-consultant, it needs to be empty so that no synchronization issues arise when pushing local to remote.
+  If a repository is created by tech-consultant, it needs to be empty so that no synchronization issues arise when pushing local to remote.
 
-    Types of repos:
-    - Starter code repositories
-    - Individual student repositories
-    - Team homework repos
-    - Team project repositories
+###### Types of repos:
+  - Starter code repositories
+  - Individual student repositories
+  - Team homework repos  - Team project repositories
 
 
-    Steps to create EMPTY repositories:
-    - Naming convention:
-      - Individual Student repos: Firstname-lastname
-      - Team homework repos: homeworkname-xxx-yyy, where xxx and yyy are github usernames/first names of the students in the team.
-      - Homework and lab solution repos: homework/lab name-solution
+###### Steps to create EMPTY repositories:
+  - Naming convention:
+  - Individual Student repos: Firstname-lastname
+  - Team homework repos: homeworkname-xxx-yyy, where xxx and yyy are github usernames/first names of the students in the team.
+  - Homework and lab solution repos: homework/lab name-solution
       Team project repos: projectnumber-xxx-yyy-zzz
 
 
-    Creating repository from github.com website:
-      1. Click on New and enter the repo name. Please follow naming convention.
-      2. Select visibility: Private
-      3. Click on Create repository.
+###### Creating repository from github.com website:
+    1. Click on New and enter the repo name. Please follow naming convention.
+    2. Select visibility: Private
+    3. Click on Create repository.
 
 
     Now, you must give access to the student who should own that repository. The student should be given “write” access to this repository.
@@ -78,7 +77,7 @@ This is a course repository where all students have their work in the current se
   **Note:** As a tech consultant, you need to make sure that all the required content from the students’ coursework organization is uploaded to this organization. This material will be utilized in further semesters.
 
 
-  - Repositories:
+###### Repositories:
     - Course static website repository:
       This is the GitHub pages website for the course with naming convention: compxxx.github.io, where xxx is Course ID.
 
@@ -87,7 +86,7 @@ This is a course repository where all students have their work in the current se
     - Starter Code repositories
     - Lab and homework solution repositories.
 
-    Starter code and solutions repos are moved from students coursework org to this org at the end of each semester.
+    Starter code and solutions repositories are moved from students coursework org to this org at the end of each semester.
 
     ``Please follow the steps from the previous section to create repositories. ``
 ---------
