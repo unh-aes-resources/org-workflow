@@ -95,8 +95,8 @@ Course organization for course instructor and assistant.
 - Organization for Student projects that relate to a course.
 
 - Teams:
-  1. Students: All the students in the course.
-  2. Project teams: Sub-teams of Students.
+  - Students: All the students in the course.
+  - Project teams: Sub-teams of Students.
 
 
 - Repositories:
@@ -104,5 +104,5 @@ Course organization for course instructor and assistant.
   Project repository corresponding to project teams.
 
 - Access rights:
-  1. Owners are course instructor and lab assistants.
-  2. Project team members are maintainers of their repository and readers of all other repositories.
+  - Owners are course instructor and lab assistants.
+  - Project team members are maintainers of their repository and readers of all other repositories.
