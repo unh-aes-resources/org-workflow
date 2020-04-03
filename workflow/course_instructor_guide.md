@@ -34,17 +34,21 @@ Course organization for students in the course in a given semester.
 
 
 - Repositories:
-⋅⋅This organization will have individual student repositories, starter code repositories, and the project team repositories.
 
-  ..__Individual Student repositories:__
+This organization will have individual student repositories, starter code repositories, and the project team repositories.
+
+  __Individual Student repositories:__
   These repositories will contain all the individual submissions of the students like homework, labs, etc.
-  - Naming convention: firstname-lastname (tbd)
-    If there are separate repositories created for each homework or labs then,
+  - Naming convention:
+
+    firstname-lastname (tbd)
+
     For homework and labs,
-      Individual: hw_name/number-firstname
-      Group: hw_name/number-xxx-yyy, where xxx, yyy are the first names of students in this group.
+      ...Individual: hw_name/number-firstname..
+      ...Group: hw_name/number-xxx-yyy, where xxx, yyy are the first names of students in this group.
 
   - Access rights:
+
     All the students of the course will be added to the respective course organization as members by tech-consultant. Students should be given “write” access for their respective repositories.
 
     Note: “Students” team with all the students in it allows them to create their own empty repositories in the GitHub organizations.
