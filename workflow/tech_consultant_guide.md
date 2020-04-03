@@ -21,17 +21,18 @@ This is a course repository where all students have their work in the current se
   - Request students list from the course instructor.
 
   - To add students to this organization, you require their GitHub usernames.
-  ``Email all the students for their usernames.``
-  ``Add the students to this organization as members.``
+
+    Email all the students for their usernames.
+    Add the students to this organization as members.
 
 - **Creating teams in Organization:**
   - Create a team named “Students” with all the students in that course.
 
     To do this,
-	   ``Go to Teams ---> New team ---> Enter team name(different naming conventions for different repositories, which is mentioned further in this document), Description is not mandatory, Team Visibility: “Visible”. Create team.``
+	  Go to Teams ---> New team ---> Enter team name(different naming conventions for different repositories, which is mentioned further in this document), Description is not mandatory, Team Visibility: “Visible”. Create team.
 
-     Now, add all the students in this team and create.
-	   Further, sub-teams can be created in this “Students” team. This is mostly done for team assignments/projects.
+    Now, add all the students in this team and create.
+	  Further, sub-teams can be created in this “Students” team. This is mostly done for team assignments/projects.
 
 
   - Repositories:
@@ -74,7 +75,7 @@ This is a course repository where all students have their work in the current se
 
   - Access rights: Course Instructor and lab assistant will be the owners. Students DO NOT have access.
 
-  **Note:** As a tech consultant, you need to make sure that all the required content from the students’ coursework organization is uploaded to this organization. This material will be utilized in further semesters. 
+  **Note:** As a tech consultant, you need to make sure that all the required content from the students’ coursework organization is uploaded to this organization. This material will be utilized in further semesters.
 
 
   - Repositories:
