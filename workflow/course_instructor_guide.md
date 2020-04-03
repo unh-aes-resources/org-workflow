@@ -95,8 +95,8 @@ Course organization for course instructor and assistant.
 
 - Teams:
 
-    1. Students: All the students in the course.
-    2. Project teams: Sub-teams of Students.
+  1. Students: All the students in the course.
+  2. Project teams: Sub-teams of Students.
 
 
 - Repositories:
