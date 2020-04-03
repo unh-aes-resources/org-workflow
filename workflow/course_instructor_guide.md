@@ -55,15 +55,15 @@ Course organization for students in the course in a given semester.
 
     - Students can create their own repositories and make them available for the instructor and assistant to read.  If repositories are created by tech-consultants, they should be given “write” access.
 
-- __Starter code repositories:__
+  - __Starter code repositories:__
 
-  - This repository contains the starter code and is maintained by the course instructor and assistant. Students will need to clone the starter code every week.  
+    - This repository contains the starter code and is maintained by the course instructor and assistant. Students will need to clone the starter code every week.  
 
-  - Access rights: Students will have “read” access to this repository.
+    - Access rights: Students will have “read” access to this repository.
 
-- __Team project repositories:__
+  - __Team project repositories:__
 
-  - Sub-teams can be created under the “Students” team. This team will have maintainer access to a project repository where each team member can be a contributor.
+    - Sub-teams can be created under the “Students” team. This team will have maintainer access to a project repository where each team member can be a contributor.
 
 -----------------
 ### **Course Materials:**
