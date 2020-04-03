@@ -33,7 +33,7 @@ Types of organizations in the University of New Hampshire enterprise:
   This organization will have individual student repositories, starter code repositories, and the project team repositories.
 
 
-- Individual Student repositories:
+- __Individual Student repositories:__
 These repositories will contain all the individual submissions of the students like homework, labs, etc.
 - Naming convention: firstname-lastname (tbd)
   If there are separate repositories created for each homework or labs then,
@@ -48,13 +48,13 @@ These repositories will contain all the individual submissions of the students l
 
 - Students can create their own repositories and make them available for the instructor and assistant to read.  If repositories are created by tech-consultants, they should be given “write” access.
 
-- Starter code repositories:
+- __Starter code repositories:__
   This repository contains the starter code and is maintained by the course instructor and assistant. Students will need to clone the starter code every week.  
   Access rights: Students will have “read” access to this repository.
 
 
 
-- Team project repositories:
+- __Team project repositories:__
   Sub-teams can be created under the “Students” team. This team will have maintainer access to a project repository where each team member can be a contributor.
 
 
@@ -66,17 +66,17 @@ These repositories will contain all the individual submissions of the students l
 
 
 - Repositories in this organization:
-  - Course static website repository:
+  - __Course static website repository:__
     This is a GitHub pages website for the course.
 
     Naming convention: compxxx.github.io, xxx represents course ID.
     Note: There is a static website which is being maintained at present: [unh-aes-resources](https://unh-aes-resources.github.io/)
 
-  - Starter code repositories.
+  - __Starter code repositories.__
     This repository contains the starter code used for labs.
 
 
-  - Lab and homework solution repositories.
+  - __Lab and homework solution repositories.__
     Assistants will upload the solutions to homework and labs in this repository. These repositories are considered to be useful in future semesters.
 
 **Student Projects: (To be Considered)**
