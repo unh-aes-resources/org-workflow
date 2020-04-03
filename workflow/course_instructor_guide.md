@@ -38,9 +38,10 @@ Course organization for students in the course in a given semester.
 This organization will have individual student repositories, starter code repositories, and the project team repositories.
 
   __Individual Student repositories:__
+
   These repositories will contain all the individual submissions of the students like homework, labs, etc.
   - Naming convention:
-      firstname-lastname (tbd)\n
+      firstname-lastname (tbd)
       For homework and labs,
         Individual: hw_name/number-firstname
         Group: hw_name/number-xxx-yyy, where xxx, yyy are the first names of students in this group.
@@ -56,15 +57,15 @@ This organization will have individual student repositories, starter code reposi
 
 __Starter code repositories:__
 
-This repository contains the starter code and is maintained by the course instructor and assistant. Students will need to clone the starter code every week.  
+- This repository contains the starter code and is maintained by the course instructor and assistant. Students will need to clone the starter code every week.  
 
-Access rights: Students will have “read” access to this repository.
+- Access rights: Students will have “read” access to this repository.
 
 
 
 __Team project repositories:__
 
-Sub-teams can be created under the “Students” team. This team will have maintainer access to a project repository where each team member can be a contributor.
+- Sub-teams can be created under the “Students” team. This team will have maintainer access to a project repository where each team member can be a contributor.
 
 
 ### **Course Materials:**
@@ -73,10 +74,11 @@ Course organization for course instructor and assistant.
 - Naming convention: <course name>, for example, data-structures-fundamentals with blue logo.
 
 
-- Access rights: Course instructor and assistant will be owners. Students DO NOT have access to this organization.
+- Access rights: Course instructor and assistant will be owners. Students **DO NOT** have access to this organization.
 
 
 - Repositories in this organization:
+
   __Course static website repository:__
     This is a GitHub pages website for the course.
 
@@ -94,16 +96,14 @@ Course organization for course instructor and assistant.
 - Organization for Student projects that relate to a course.
 
 - Teams:
-1. Students: All the students in the course.
-2. Project teams: Sub-teams of Students.
+  1. Students: All the students in the course.
+  2. Project teams: Sub-teams of Students.
 
 
 - Repositories:
 
-    Project repository corresponding to project teams.
-
+  Project repository corresponding to project teams.
 
 - Access rights:
-
-    1. Owners are course instructor and lab assistants.
-	  2. Project team members are maintainers of their repository and readers of all other repositories.
+  1. Owners are course instructor and lab assistants.
+  2. Project team members are maintainers of their repository and readers of all other repositories.
