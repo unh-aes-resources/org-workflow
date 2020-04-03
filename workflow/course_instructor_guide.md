@@ -1,16 +1,5 @@
 # Guide for Course Instructors
 
-
-## Brief Workflow:
-- “Course Materials” organizations persist over time.
-  Student Work organizations get recycled at the end of each semester AFTER grades are submitted.
-  All student repositories are removed.
-
-- Starter code and solutions repositories are moved to the Course Materials.
-  The organization is renamed to reflect the following semester or the entire organization is removed and a new one is created.
-
-- Student Projects organizations get updated at the end of each semester.
-
 ## Detailed Workflow:
 Types of organizations in the University of New Hampshire enterprise:
 
@@ -106,3 +95,14 @@ Course organization for course instructor and assistant.
 - Access rights:
   - Owners are course instructor and lab assistants.
   - Project team members are maintainers of their repository and readers of all other repositories.
+
+------------
+
+## At the end of each semester:
+- "Student coursework" organizations get recycled at the end of each semester AFTER grades are submitted.
+  All student repositories are removed. Starter code and solutions repositories are moved to the Course Materials.
+
+- “Course Materials” organizations persist over time.
+  The organization is renamed to reflect the following semester or the entire organization is removed and a new one is created.
+
+- "Student Projects" organizations get updated at the end of each semester.
