@@ -58,10 +58,10 @@ This is a course repository where all students have their work in the current se
 
 
 ###### Creating repository from github.com website:
+
     1. Click on New and enter the repo name. Please follow naming convention.
     2. Select visibility: Private
     3. Click on Create repository.
-
 
     Now, you must give access to the student who should own that repository. The student should be given “write” access to this repository.
     For team repos: The respective sub-team in the ”Students” team should be given “write” access. All other teams will have “read” access.
